@@ -722,6 +722,15 @@ input[type="radio"]:disabled {
 }
 
 
+.attribution{
+    font-family: inherit;
+    font-size: 18px;
+    padding: 30px;
+    background-color: whitesmoke ;
+    width: 100%;
+    height: 10px;
+}
+
 
 /**********************************************************************************/
 /**********************************************************************************/
